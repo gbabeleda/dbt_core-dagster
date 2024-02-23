@@ -10,6 +10,8 @@ dagster-gcp
 # Working with postgres
 dagster-postgres
 
+# dbt bigquery adapater
 dbt-bigquery
 
+# dbt bigquery adapter
 dbt-postgres
