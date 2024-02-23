@@ -1,0 +1,15 @@
+# Dagster Core Package
+dagster
+
+# Working with DBT
+dagster-dbt
+
+# Working with GCP
+dagster-gcp
+
+# Working with postgres
+dagster-postgres
+
+dbt-bigquery
+
+dbt-postgres
